@@ -1,6 +1,6 @@
 # Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][sindresorhus] [![Netlify Status](https://api.netlify.com/api/v1/badges/8ca86717-11ba-46d4-9d0a-700d8527f13b/deploy-status)](https://app.netlify.com/sites/awesome-docker/deploys)<!-- omit in toc -->
 
-> A curated list of Docker resources and projects
+> A curated list of Docker resources and projects.
 
 If you would like to contribute, please read [CONTRIBUTING.md][contributing] first.
 It contains a lot of tips and guidelines to help keep things organized.
